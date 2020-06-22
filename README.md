@@ -4,7 +4,7 @@ Disclaimer: This project was created to fulfill Bangkit Academy Final Assessment
 Created by Nala Aldina, Candra Dewi, Muhammad Pandam, and Achmad Fauzan.
 
 ## Description
-This project aims to develop a model to diagnose tomato leaf disease using [Efficient Neural Architecture Search](https://arxiv.org/abs/1802.03268) (ENAS) we ware using micro search strategy to find the optimum blocks of architecture for Convolutional Neural Network (CNN).
+This project aims to develop a model to diagnose tomato leaf disease using [Efficient Neural Architecture Search](https://arxiv.org/abs/1802.03268) (ENAS) we were using micro search strategy to find the optimum blocks of architecture for Convolutional Neural Network (CNN).
 
 Dataset: [Tomato leaf disease detection](https://www.kaggle.com/kaustubhb999/tomatoleaf)
 In this dataset, there are 11,000 images for all classes that is listed down below:
