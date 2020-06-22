@@ -1,6 +1,6 @@
 # Add another model into app
 ## Step adding your model
- 1. copy your model and label into _assets_ directory
+ 1. copy your tflite model and label into _assets_ directory
  2. Create Class in "tflite" directory, extend your class with Classifier.class
  3. implement all member from Classifier.class
  4. in your new model class, set return value of getModelPath() as your model name in the assets directory, and set return value if getLabelPath() as your label name in the assets directory
