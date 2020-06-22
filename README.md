@@ -29,5 +29,6 @@ Dependencies:
 ## Result
 The model is able to gain ~93% accuracy, higher than the baseline model which is only ~86%.
 
-The APK file can downloaded [here](https://drive.google.com/file/d/1EFjDhopJe0cLTvWdr4Evl0AxnGne4M2W/view)
+The example APK file can downloaded [here](https://drive.google.com/file/d/1EFjDhopJe0cLTvWdr4Evl0AxnGne4M2W/view)
 
+Our model can downloaded [here](https://drive.google.com/drive/folders/1wRDebHQNmtmILUmB12DYEqNSyavfZAeo)
